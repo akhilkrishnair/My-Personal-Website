@@ -15,6 +15,7 @@
 
 @media (max-width:765px){
    .skill-grids{
-       display:block;
+       display:flex;
+       flex-direction:column;
     }
 }
