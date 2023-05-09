@@ -1,0 +1,14 @@
+.header-profile img{
+    width: 28%;
+    border: solid white 4px;
+    border-radius: 48%;
+}
+.fa-python{
+    font-size: larger;
+}
+
+.skill-grids{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
