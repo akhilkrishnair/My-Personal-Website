@@ -13,7 +13,7 @@
     justify-content: space-evenly;
 }
 
-@media (max-width:765){
+@media (max-width:765px){
    .skill-grids{
        display:block;
     }
